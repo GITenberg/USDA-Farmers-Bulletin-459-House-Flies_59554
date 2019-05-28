@@ -1,0 +1,23 @@
+_repo: USDA-Farmers-Bulletin-459-House-Flies_59554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, L. O. (Leland Ossian)
+    alias: Howard, Leland Ossian
+    birthdate: 1857
+    deathdate: 1950
+    gutenberg_agent_id: '7773'
+    url: http://www.gutenberg.org/2009/agents/7773
+description: ''
+gutenberg_issued: '2019-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA Farmers'' Bulletin 459: House Flies'
+url: http://www.gutenberg.org/ebooks/59554
